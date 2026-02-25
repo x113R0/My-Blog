@@ -1,3 +1,3 @@
 # My-Blog
 Mini project, Multi-page personal website.
-https://herofrx.github.io/My-Blog/home.html
+https://x113r0.github.io/My-Blog/home.html
